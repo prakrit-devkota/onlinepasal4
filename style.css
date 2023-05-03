@@ -1,0 +1,75 @@
+h3{
+    font-weight: bold;
+    color: orange;
+    font-size: 2rem;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+img{
+    width: 18px;
+    
+    
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 8px;
+    
+}
+button{
+    position: relative;
+    top:5px;
+}
+.item1 img{
+    width: 300px;
+    height: 200px;
+    
+}
+.items{
+    margin: 80px 35px;
+}
+ol{
+    list-style: none;
+    font-weight:bold;
+}
+p{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.items button{
+    position: relative;
+    left: 120px;
+    height: 30px;
+    border-radius: 4px;
+}
+ .items button:hover{
+    background-color: aqua;
+    color:green;
+}
+.item2{
+    margin-top: 80px;
+}
+.item2 img{
+    height: 200px;
+    width:300px ;
+}
+.item3 img{
+    height: 200px;
+    width:300px ;
+}
+.item3{
+    margin-top: 80px;
+}
+a{
+    text-decoration: none;
+}
+li,p{
+    font-size: 1.1rem;
+}
+.lastsec{
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 0.9rem;
+}
